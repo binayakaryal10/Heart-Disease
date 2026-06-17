@@ -31,7 +31,6 @@ except Exception as e:
 st.title("Heart Disease Risk Predictor")
 st.markdown(
     """
-    *Developed by Binayak* 
     Provide the clinical metrics below to estimate the likelihood of heart disease. 
     Please ensure all values are accurate before clicking **Analyze Risk**.
     """
